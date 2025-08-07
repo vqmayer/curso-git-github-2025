@@ -11,7 +11,7 @@ git log			-> Mostra todo os historico de commit
 4. git status
 5. git add <nome_arquivo>
 6. git status
-7. git commit -m "mensagem"
+7. git commit -m "Mensagem estranha"
 8. git status
 9. volta para o passo 3
 
