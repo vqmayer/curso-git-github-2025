@@ -3,7 +3,10 @@ git status 		-> Mostra o status do trabalho (de cada arquivo)
 git add nome_arquivo 	-> Adiciona arquivo para ser commitado
 git commit -m "msg" 	-> Faz commit do que estava para ser commitado
 git log			-> Mostra todo os historico de commit
+<<<<<<< HEAD
 
+=======
+>>>>>>> ana
 
 ## FLUXO DE TRABALHO
 1. criar o diretorio do projeto
