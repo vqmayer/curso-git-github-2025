@@ -1,4 +1,4 @@
-\# Curso TMW Git \& GitHub 2025
+\# Curso TMW Git \& GitHub 2025 #
 
 
 
@@ -20,11 +20,18 @@ Visual Studio Code.
 
 
 
-Confira tudo o que temos no 
+Confira tudo o que temos no
 
 nosso Youtube. E gratis!
 
 
 
+------
 
 
+
+Pessoas participantes:
+
+
+
+* Teo
